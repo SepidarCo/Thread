@@ -1,0 +1,7 @@
+D:\SepidarCo\Thread\SimpleThread\bin\Debug\SimpleThread.exe.config
+D:\SepidarCo\Thread\SimpleThread\bin\Debug\SimpleThread.exe
+D:\SepidarCo\Thread\SimpleThread\bin\Debug\SimpleThread.pdb
+D:\SepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.csprojAssemblyReference.cache
+D:\SepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.csproj.CoreCompileInputs.cache
+D:\SepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.exe
+D:\SepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.pdb
