@@ -5,3 +5,10 @@ D:\SepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.csprojAssemblyReference.
 D:\SepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.csproj.CoreCompileInputs.cache
 D:\SepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.exe
 D:\SepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.pdb
+D:\GitSepidarCo\Thread\SimpleThread\bin\Debug\SimpleThread.exe.config
+D:\GitSepidarCo\Thread\SimpleThread\bin\Debug\SimpleThread.exe
+D:\GitSepidarCo\Thread\SimpleThread\bin\Debug\SimpleThread.pdb
+D:\GitSepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.csproj.AssemblyReference.cache
+D:\GitSepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.csproj.CoreCompileInputs.cache
+D:\GitSepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.exe
+D:\GitSepidarCo\Thread\SimpleThread\obj\Debug\SimpleThread.pdb
